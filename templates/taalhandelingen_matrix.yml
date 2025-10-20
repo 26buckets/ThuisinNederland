@@ -1,0 +1,22 @@
+- thema: Werk
+  scenario: Kennismaken
+  niveau: A1-A2
+  taalhandelingen:
+    - jezelf voorstellen
+    - iemand begroeten
+    - vragen waar iemand vandaan komt
+  grammatica:
+    - werkwoorden_zijn_hebben
+    - zinsstructuur_svr
+  erk_doelen:
+    - A1: eenvoudige sociale contacten leggen
+    - A2: persoonlijke info uitwisselen
+- thema: Gezondheid
+  scenario: Ziekmelden
+  niveau: A2
+  taalhandelingen:
+    - klachten benoemen
+    - ziekmelden
+  grammatica:
+    - modale_werkwoorden_kunnen_moeten_willen_mogen
+    - perfectum_basics_hebben_zijn

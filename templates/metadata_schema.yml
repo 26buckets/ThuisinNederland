@@ -1,0 +1,10 @@
+required:
+  - title
+  - niveau
+  - license
+recommended:
+  - scenario_id
+  - erk
+  - taalhandelingen
+  - grammatica
+  - differentiatie
