@@ -1,7 +1,7 @@
 ---
 title: [Zijn / Hebben]
 niveau: [A0]
-categorie: [Werkwoorden/Zinsstructuur/Voornaamwoorden/etc.]
+categorie: [Werkwoorden/Zinsstructuur/]
 license: CC-BY-SA-4.0
 ---
 
